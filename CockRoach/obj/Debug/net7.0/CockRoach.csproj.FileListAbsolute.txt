@@ -1,0 +1,15 @@
+D:\Projects\C# Codewars\CodeWars\CockRoach\obj\Debug\net7.0\CockRoach.csproj.AssemblyReference.cache
+D:\Projects\C# Codewars\CodeWars\CockRoach\obj\Debug\net7.0\CockRoach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# Codewars\CodeWars\CockRoach\obj\Debug\net7.0\CockRoach.AssemblyInfoInputs.cache
+D:\Projects\C# Codewars\CodeWars\CockRoach\obj\Debug\net7.0\CockRoach.AssemblyInfo.cs
+D:\Projects\C# Codewars\CodeWars\CockRoach\obj\Debug\net7.0\CockRoach.csproj.CoreCompileInputs.cache
+D:\Projects\C# Codewars\CodeWars\CockRoach\bin\Debug\net7.0\CockRoach.exe
+D:\Projects\C# Codewars\CodeWars\CockRoach\bin\Debug\net7.0\CockRoach.deps.json
+D:\Projects\C# Codewars\CodeWars\CockRoach\bin\Debug\net7.0\CockRoach.runtimeconfig.json
+D:\Projects\C# Codewars\CodeWars\CockRoach\bin\Debug\net7.0\CockRoach.dll
+D:\Projects\C# Codewars\CodeWars\CockRoach\bin\Debug\net7.0\CockRoach.pdb
+D:\Projects\C# Codewars\CodeWars\CockRoach\obj\Debug\net7.0\CockRoach.dll
+D:\Projects\C# Codewars\CodeWars\CockRoach\obj\Debug\net7.0\refint\CockRoach.dll
+D:\Projects\C# Codewars\CodeWars\CockRoach\obj\Debug\net7.0\CockRoach.pdb
+D:\Projects\C# Codewars\CodeWars\CockRoach\obj\Debug\net7.0\CockRoach.genruntimeconfig.cache
+D:\Projects\C# Codewars\CodeWars\CockRoach\obj\Debug\net7.0\ref\CockRoach.dll

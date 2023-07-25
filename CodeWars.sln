@@ -5,6 +5,10 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata", "Kata\Kata.csproj", "{950C569C-C599-4D3A-835E-7633189889EA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CockRoach", "CockRoach\CockRoach.csproj", "{9993336D-1AC3-458B-B2C4-E95EB3411B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindItemInArray", "FindItemInArray\FindItemInArray.csproj", "{AB51A715-56B5-455C-B26A-08C381621515}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{950C569C-C599-4D3A-835E-7633189889EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{950C569C-C599-4D3A-835E-7633189889EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{950C569C-C599-4D3A-835E-7633189889EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9993336D-1AC3-458B-B2C4-E95EB3411B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9993336D-1AC3-458B-B2C4-E95EB3411B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9993336D-1AC3-458B-B2C4-E95EB3411B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9993336D-1AC3-458B-B2C4-E95EB3411B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB51A715-56B5-455C-B26A-08C381621515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB51A715-56B5-455C-B26A-08C381621515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB51A715-56B5-455C-B26A-08C381621515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB51A715-56B5-455C-B26A-08C381621515}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

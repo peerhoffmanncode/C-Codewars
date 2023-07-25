@@ -1,0 +1,15 @@
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\bin\Debug\net7.0\FindItemInArray.exe
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\bin\Debug\net7.0\FindItemInArray.deps.json
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\bin\Debug\net7.0\FindItemInArray.runtimeconfig.json
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\bin\Debug\net7.0\FindItemInArray.dll
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\bin\Debug\net7.0\FindItemInArray.pdb
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\obj\Debug\net7.0\FindItemInArray.csproj.AssemblyReference.cache
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\obj\Debug\net7.0\FindItemInArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\obj\Debug\net7.0\FindItemInArray.AssemblyInfoInputs.cache
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\obj\Debug\net7.0\FindItemInArray.AssemblyInfo.cs
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\obj\Debug\net7.0\FindItemInArray.csproj.CoreCompileInputs.cache
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\obj\Debug\net7.0\FindItemInArray.dll
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\obj\Debug\net7.0\refint\FindItemInArray.dll
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\obj\Debug\net7.0\FindItemInArray.pdb
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\obj\Debug\net7.0\FindItemInArray.genruntimeconfig.cache
+D:\Projects\C# Codewars\CodeWars\FindItemInArray\obj\Debug\net7.0\ref\FindItemInArray.dll
