@@ -1,0 +1,15 @@
+D:\Projects\C# Codewars\CodeWars\Kata\obj\Debug\net7.0\Kata.csproj.AssemblyReference.cache
+D:\Projects\C# Codewars\CodeWars\Kata\obj\Debug\net7.0\Kata.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# Codewars\CodeWars\Kata\obj\Debug\net7.0\Kata.AssemblyInfoInputs.cache
+D:\Projects\C# Codewars\CodeWars\Kata\obj\Debug\net7.0\Kata.AssemblyInfo.cs
+D:\Projects\C# Codewars\CodeWars\Kata\obj\Debug\net7.0\Kata.csproj.CoreCompileInputs.cache
+D:\Projects\C# Codewars\CodeWars\Kata\bin\Debug\net7.0\Kata.exe
+D:\Projects\C# Codewars\CodeWars\Kata\bin\Debug\net7.0\Kata.deps.json
+D:\Projects\C# Codewars\CodeWars\Kata\bin\Debug\net7.0\Kata.runtimeconfig.json
+D:\Projects\C# Codewars\CodeWars\Kata\bin\Debug\net7.0\Kata.dll
+D:\Projects\C# Codewars\CodeWars\Kata\bin\Debug\net7.0\Kata.pdb
+D:\Projects\C# Codewars\CodeWars\Kata\obj\Debug\net7.0\Kata.dll
+D:\Projects\C# Codewars\CodeWars\Kata\obj\Debug\net7.0\refint\Kata.dll
+D:\Projects\C# Codewars\CodeWars\Kata\obj\Debug\net7.0\Kata.pdb
+D:\Projects\C# Codewars\CodeWars\Kata\obj\Debug\net7.0\Kata.genruntimeconfig.cache
+D:\Projects\C# Codewars\CodeWars\Kata\obj\Debug\net7.0\ref\Kata.dll
